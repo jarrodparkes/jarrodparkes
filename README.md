@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Check out my website!
+```swift
+let jarrod = [
+  "first_name": "Jarrod",
+  "last_name": "Parkes",
+  "website": "https://jarrodparkes.com",
+  "role": "Senior Engineer",
+  "favorites": ["Swift", "Python", "PHP", "Automation", "Scripting"]
+]
+```
+
+#### My stats
+[![jarrodparkes's github stats](https://github-readme-stats.vercel.app/api?username=jarrodparkes&show_icons=true&count_private=true)](https://github.com/jarrodparkes)
