@@ -27,10 +27,10 @@ let jarrod = [
 ```
 
 #### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sdevore)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jarrodparkes)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdevore)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarrodparkes)](https://github.com/anuraghazra/github-readme-stats)
 
 #### GitHub Stats
 [![jarrodparkes's github stats](https://github-readme-stats.vercel.app/api?username=jarrodparkes&show_icons=true&count_private=true)](https://github.com/jarrodparkes)
