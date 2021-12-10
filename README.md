@@ -22,7 +22,7 @@ let jarrod = [
   "last_name": "Parkes",
   "website": "https://jarrodparkes.com",
   "role": "Senior Engineer",
-  "favorites": ["Swift", "Python", "PHP", "Automation", "Scripting"]
+  "favorites": ["Swift", "PHP", "Spec Development", "Python", "Automation", "Scripting"]
 ]
 ```
 
