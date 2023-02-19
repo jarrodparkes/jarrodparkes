@@ -1,21 +1,9 @@
-### Hi there 👋
+### Hi, I'm Jarrod 👋
 
-<!--
-**jarrodparkes/jarrodparkes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+    <summary> <samp>👨🏻‍💻 Personal Info</samp></summary>
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-#### Check out my website!
 ```swift
 let jarrod = [
   "first_name": "Jarrod",
@@ -26,11 +14,20 @@ let jarrod = [
 ]
 ```
 
-#### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=jarrodparkes)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
 
-#### GitHub Core Stats
-[![jarrodparkes's github stats](https://github-readme-stats.vercel.app/api?username=jarrodparkes&show_icons=true&count_private=true)](https://github.com/jarrodparkes)
+<details>
+    <summary> <samp>📈 GitHub Stats</samp></summary>
+<br/>
 
-#### GitHub Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarrodparkes)](https://github.com/anuraghazra/github-readme-stats)
+![Jarrod Parkes GitHub Stats](https://github-readme-stats.vercel.app/api?username=jarrodparkes&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
+
+</details>
+
+<details>
+    <summary> <samp>📝 Programming Languages</samp></summary>
+<br/>
+
+![Jarrod Parkes Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jarrodparkes&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
+
+</details>
